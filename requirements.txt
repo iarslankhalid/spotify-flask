@@ -1,0 +1,8 @@
+flask
+flask-cors
+spotipy
+python-dotenv
+requests
+openai
+cryptography
+google-generativeai

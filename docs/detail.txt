@@ -1,0 +1,80 @@
+Summary
+Hey! I’m looking for a reliable dev to help me finalise & tidy up my Session Soundtracks playlist tool — it’s live at app.mapsofthemind.com.
+
+The core filter system is built, but I need help finishing, tweaking & making it future-proof.
+
+✅ Bug fixes & deploy tweaks:
+• Small bug fixes
+• Final deploy check
+• Stripe integration tested (one-off payment, coupon codes working smoothly)
+• General content & image polish
+
+✅ Card improvements:
+• Show duration on each playlist card (auto-calculate from Spotify API if possible)
+• Add mood tags to cards — visible at a glance (users want “calming”, “euphoric”, “introspective”)
+
+✅ Better playlist tagging workflow:
+• I want a semi-automatic tagging system for new playlists — mood, genre, duration, intention.
+• I do not want to manually listen to 50+ playlists — I want your ideas: pull data from Spotify API? Use a simple AI to suggest moods?
+• I should be able to upload playlists in bulk, tweak tags in a simple admin panel & push them live.
+
+✅ Future-proof:
+• I want an easy process so I can drop in new playlists once or twice a year — or hand them off to you to handle.
+• Bonus points if you have ideas for smart auto-tagging / AI flow.
+
+✅ How we’ll run this:
+• Milestone 1 ($100–200): Core fixes, deploy, Stripe test, tidy up.
+• Milestone 2 ($300–500): Build the smart tagging/upload system, bulk upload with me, simple admin flow for future use.
+• Possible ongoing: I’ll keep you in mind for future batches.
+
+🔑 Must-have:
+• Check the live site: app.mapsofthemind.com
+• Tell me how you’d handle auto-tagging moods — e.g. pulling Spotify audio features, genre, mood detection, etc.
+• Show me similar projects — especially if you’ve worked with Spotify APIs, smart admin dashboards, or music-based tools.
+• Start your message with ApPle Pie so I know you read this.
+
+⏱️ Quick timeline:
+• Want to hire today/tomorrow.
+• Short 15-min call tomorrow UK time (2–6pm) or async chat works too.
+• Total budget for now: $500 max, with room to grow if you nail it.
+
+Let’s keep it simple, practical & smooth.
+
+My proposal was :
+ ApPle Pie. Hey JOHN. Just checked out app.mapsofthemind.com. You’re 90% there. Cleaning this up, handling deploy bugs, and tightening up Stripe andplaylist tagging are the fun part in this.I’d approach the auto-tagging by pulling Spotify’s audio features(tempo, etc.) and mapping them to mood buckets like “euphoric” or “introspective.” Combine that with genre metadata and a lightweight AI model (Claude or GPT, low-temp) to suggest top 3 moods per playlist. Then we plug that into a small admin panel where you can review, tweak, and hit publish. Recently i am working on a similar project in the niche of sounds but it is more relevant to music producers. I can even give you a demo of exactly what you want. I have one, are you managing playlists manually in a DB now, or is it synced directly via Spotify playlists? Can hop on a call tomorrow at 2-3Pm UK time? Cheers! Hammad Zubair
+
+
+
+
+
+
+Client has a demo request :
+Hey Hammad,
+Cheers for your reply — appreciate you breaking it down so clearly.
+
+
+
+A couple of quick bits to help you line up your demo:
+👉 The playlists are stored manually in Firebase DB at the moment — not synced from Spotify yet. I find them, build them, and copy in the Spotify link myself. Same for YouTube when needed.
+👉 Here’s my static database so you can see what’s there: https://mapsofthemind.com/playlists (password: play)
+👉 Could you please do a quick mini-demo using 4 playlists from the live site (https://app.mapsofthemind.com)? Just show me how you’d pull the Spotify audio features, auto-suggest moods (like calming, introspective, euphoric), and how you’d see that being reviewed + approved in a simple admin flow.
+
+
+
+I’m looking to keep this easy to update: I’d find new playlists once or twice a year, send you/the system the links, and it handles smart tagging + bulk upload so I don’t have to do it all manually.
+
+
+
+One last thing — I’ll be away from the 8th to the 13th of July, so the project might pause for a few days in that window.
+
+
+
+If you could share the demo + your thoughts by end of Saturday, that’d be perfect. A Loom is great if you want — whatever’s easiest for you to show how you’d tackle it.
+
+
+
+Thanks a lot — looking forward to seeing what you’ve got.
+John
+
+Playlists Database - Maps of the Mind
+There is no excerpt because this is a protected post.
